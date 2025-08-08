@@ -1,6 +1,6 @@
 # 🎤 Colorful Karaoke Display
 
-A simple Python script that displays song lyrics line-by-line with colorful text in the terminal.
+A Python script that displays song lyrics line-by-line with colorful text in the terminal.
 
 ## Features
 
