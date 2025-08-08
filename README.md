@@ -48,6 +48,4 @@ You can easily customize:
 - Python 3.6+
 - Rich library (`pip install rich`)
 
----
 
-A fun little project to practice Python basics and terminal styling!
